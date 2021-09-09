@@ -17,7 +17,7 @@ The above sums up where my head is at and what matters most to me.
 The above is ongoing, as I continue to influence and evangelise individuals, teams and communities.
 
 > ### My SuperPower? 🦸🏽‍
-> ### A trackrecord of turning Setbacks and Challenges, into Growth Opportunities & Big Wins.
+> ### Track record of turning Setbacks and Challenges, into Growth Opportunities & Big Wins.
 
 ---
 
