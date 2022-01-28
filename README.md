@@ -8,19 +8,8 @@
 #### Profession, Craft and Passion.❣️ Tech + Art. 
 The above sums up where my head is at and what matters most to me.
 
-- Experienced in leading Product Design System & Design Engineering teams.
-- Built component libraries in HTML, CSS, Angular & React.
-- Used Sketch, Invision and Figma to craft our Design Language.
-- Been through the maturity cycle of a Design System from genesis to 3+ years & 4+ versions.
-- Built Dev Experience and Community around the Assets.
-
-The above is ongoing, as I continue to influence and evangelise individuals, teams and communities.
-
-> ### My SuperPower? 🦸🏽‍
-> ### Track record of turning Setbacks and Challenges, into Growth Opportunities & Big Wins.
-
 ---
 
 I live in Austin, TX with my wife, son and a canine kid 🐾.
 
-- 🌱 I’m currently learning Next.JS and curious about NFTs.
+🌱 I’m currently noodling with Next.JS and curious about NFTs.
