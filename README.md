@@ -12,4 +12,4 @@ The above sums up where my head is at and what matters most to me.
 
 I live in Austin, TX with my wife, son and a canine kid 🐾.
 
-🌱 I’m currently noodling with Next.JS and curious about NFTs.
+🌱 I’m currently noodling with Astro and AI.
